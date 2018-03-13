@@ -31,5 +31,9 @@ html {
 }
 
 .phone {
-  align-items: center;
+  text-align: center;
+}
+
+.footer {
+  text-align: right;
 }
