@@ -29,3 +29,7 @@ h2 {
 html {
   background-color: black;
 }
+
+.phone {
+  align-items: center;
+}
